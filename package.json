@@ -1,0 +1,22 @@
+{
+  "name": "coldsoft",
+  "version": "0.1.0",
+  "description": "A hapijs and angular tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coldmode/coldsoft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coldmode/coldsoft/issues"
+  },
+  "homepage": "https://github.com/Coldmode/coldsoft#readme",
+  "dependencies": {
+    "hapi": "^13.5.0"
+  }
+}
